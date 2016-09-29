@@ -1,0 +1,27 @@
+h1 {
+	font-size: 3em;
+	text-align: center;
+	color: red;
+	
+}
+body {
+	background-color: lightblue;
+
+}
+h2 {
+	font-size: 2.5em;
+	
+}
+p {
+	color: red;
+	
+}
+h3 {
+	font-size: 2.5em;
+	
+}
+div {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
